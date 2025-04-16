@@ -21,4 +21,7 @@ public class Ogrenci {
     private int puan;
     @Column(nullable = true)
     private String dtarih;
+
+
+
 }
